@@ -1,0 +1,11 @@
+The libraries that I've used are:
+pyautogui
+pyjokes
+pyttsx3
+pywhatkit
+speech_recognition
+wikipedia
+AppOpener
+time
+tkinter
+os
